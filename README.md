@@ -4,10 +4,11 @@
 現在、waidayoに対応しています。  
 
 # 使い方
-Windows: SEDSS_Client.exeを起動します。ファイアーウォールはすべて許可してください。
-Mac: SEDSS_Client.appを右クリックして開きます。ネットワーク通信は許可してください。
-Linux: SEDSS_Client.x86_64を起動してください。ファイアーウォールを設定している場合は39500 (UDP)および8000(TCP/HTTP)を開いてください。
++ Windows: SEDSS_Client.exeを起動します。ファイアーウォールはすべて許可してください。
++ Mac: SEDSS_Client.appを右クリックして開きます。ネットワーク通信は許可してください。
++ Linux: SEDSS_Client.x86_64を起動してください。ファイアーウォールを設定している場合は39500 (UDP)および8000(TCP/HTTP)を開いてください。
 
+操作
 + 画面に従ってVRMファイルを指定してください
 + 自動検出ボタンを押してください(検出できない場合はIPアドレスを指定してください)
 + PINを入力してください(waidayoであれば設定画面のAvatar PIN code)
