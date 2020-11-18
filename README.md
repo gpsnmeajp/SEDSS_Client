@@ -16,7 +16,7 @@
 
 結果は、最下部のメッセージを確認してください。
 
-# [Boothからダウンロード(安定版)]
+# [Boothからダウンロード(安定版)](https://sabowl.booth.pm/items/2535168)
 # [githubからダウンロード(最新版)](https://github.com/gpsnmeajp/SEDSS_Client/releases)
 
 # スクリーンショット
